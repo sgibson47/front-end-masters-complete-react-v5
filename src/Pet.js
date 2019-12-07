@@ -27,4 +27,6 @@ export default function Pet({ name, animal, breed }) {
 
   // react requires you to only return one thing (often wrapping multiple things in a react fragment or a div)
   // because JS can't return multiple things
+
+  // {} -- tells jsx that the contents of the curly braces is a js expression
 }
